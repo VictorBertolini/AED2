@@ -235,10 +235,7 @@ int main()
     addArc(graph, 20, 20);
     addArc(graph, 20, 10);
 
-
     addArc(graph, 30, 10);
-
-
 
     viewGraph(graph);
 
